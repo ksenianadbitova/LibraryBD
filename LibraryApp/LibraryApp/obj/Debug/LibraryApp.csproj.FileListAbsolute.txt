@@ -1,0 +1,17 @@
+C:\Users\tasha\OneDrive\Desktop\nadbitova\LibraryApp\LibraryApp\bin\Debug\LibraryApp.exe.config
+C:\Users\tasha\OneDrive\Desktop\nadbitova\LibraryApp\LibraryApp\bin\Debug\LibraryApp.exe
+C:\Users\tasha\OneDrive\Desktop\nadbitova\LibraryApp\LibraryApp\bin\Debug\LibraryApp.pdb
+C:\Users\tasha\OneDrive\Desktop\nadbitova\LibraryApp\LibraryApp\obj\Debug\LibraryApp.csproj.AssemblyReference.cache
+C:\Users\tasha\OneDrive\Desktop\nadbitova\LibraryApp\LibraryApp\obj\Debug\MainWindow.g.cs
+C:\Users\tasha\OneDrive\Desktop\nadbitova\LibraryApp\LibraryApp\obj\Debug\AddBookWindow.g.cs
+C:\Users\tasha\OneDrive\Desktop\nadbitova\LibraryApp\LibraryApp\obj\Debug\App.g.cs
+C:\Users\tasha\OneDrive\Desktop\nadbitova\LibraryApp\LibraryApp\obj\Debug\LibraryApp_MarkupCompile.cache
+C:\Users\tasha\OneDrive\Desktop\nadbitova\LibraryApp\LibraryApp\obj\Debug\LibraryApp_MarkupCompile.lref
+C:\Users\tasha\OneDrive\Desktop\nadbitova\LibraryApp\LibraryApp\obj\Debug\MainWindow.baml
+C:\Users\tasha\OneDrive\Desktop\nadbitova\LibraryApp\LibraryApp\obj\Debug\AddBookWindow.baml
+C:\Users\tasha\OneDrive\Desktop\nadbitova\LibraryApp\LibraryApp\obj\Debug\LibraryApp.g.resources
+C:\Users\tasha\OneDrive\Desktop\nadbitova\LibraryApp\LibraryApp\obj\Debug\LibraryApp.Properties.Resources.resources
+C:\Users\tasha\OneDrive\Desktop\nadbitova\LibraryApp\LibraryApp\obj\Debug\LibraryApp.csproj.GenerateResource.cache
+C:\Users\tasha\OneDrive\Desktop\nadbitova\LibraryApp\LibraryApp\obj\Debug\LibraryApp.csproj.CoreCompileInputs.cache
+C:\Users\tasha\OneDrive\Desktop\nadbitova\LibraryApp\LibraryApp\obj\Debug\LibraryApp.exe
+C:\Users\tasha\OneDrive\Desktop\nadbitova\LibraryApp\LibraryApp\obj\Debug\LibraryApp.pdb
